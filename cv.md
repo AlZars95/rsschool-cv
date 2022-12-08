@@ -6,5 +6,7 @@
 - GitHub: AlZars95
 # Education
 - University: Belarusian National Technology University
-# English
-- Level **A2**
+# Languages
+- Russian **C2**
+- Polish **C1**
+- English **A2**
